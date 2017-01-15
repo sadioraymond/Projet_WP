@@ -22,7 +22,7 @@
 								<p>A responsive site template designed by HTML5 UP<br />
 								and released under the Creative Commons.</p>
 								<ul class="actions">
-									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+									<li><a href="#one" class="button next scrolly">Commencer</a></li>
 								</ul>
 							</div>
 						</div>
